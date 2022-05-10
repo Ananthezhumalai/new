@@ -1,0 +1,33 @@
+ form{   
+    padding: 50px 30px 20px;
+    background: #fff;
+    font-family:  sans-serif;
+}
+.input-group{
+    margin: 10px 0;
+    position: relative;
+    margin-top: -20px;    
+}
+#contact-name, #contact-password, #contact-password1, #contact-phone, #contact-email{
+    padding: 10px 0;
+}
+
+#contact-message{
+    font-family:  sans-serif;
+    font-size: 16px;
+    width: 100%; 
+    padding: 10px 0;
+}
+
+.typo{
+    position: absolute;
+    bottom: 12px;
+    right: 17px;
+    color: red;
+}
+.typo i{
+    color: rgb(51, 176, 94);
+}
+body{
+    background-color: #ffffff;
+}
